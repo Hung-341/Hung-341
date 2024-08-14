@@ -32,9 +32,11 @@ AI/ML:
   
 🌱 Currently Learning:
 
---> Advanced Deep Learning techniques
---> Big Data tools and methodologies
---> Contributing to open-source projects
+-> Advanced Deep Learning techniques
+
+-> Big Data tools and methodologies
+
+-> Contributing to open-source projects
 
 📫 How to reach me:
 
