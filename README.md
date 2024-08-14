@@ -12,29 +12,29 @@ Currently exploring new frontiers in AI and enhancing my programming skills.
 
 Languages:
 
-  Python: Proficient in writing scripts, automating tasks, and developing machine learning models.
-  JavaScript: Used for integrating AI models with web applications and creating dynamic data visualizations.
+- Python: Proficient in writing scripts, automating tasks, and developing machine learning models.
+- JavaScript: Used for integrating AI models with web applications and creating dynamic data visualizations.
 
-  TensorFlow: Expertise in developing and training deep learning models for various applications.
-  PyTorch: Skilled in building neural networks, conducting experiments, and model optimization.
-  Flask: Experience in deploying AI models as web services and APIs for production environments.
+- TensorFlow: Expertise in developing and training deep learning models for various applications.
+- PyTorch: Skilled in building neural networks, conducting experiments, and model optimization.
+- Flask: Experience in deploying AI models as web services and APIs for production environments.
 
 Tools:
 
-  Git: Version control for collaborative development, managing codebases, and tracking changes.
-  Docker: Containerization of AI models and applications to ensure consistent deployment across environments.
+- Git: Version control for collaborative development, managing codebases, and tracking changes.
+- Docker: Containerization of AI models and applications to ensure consistent deployment across environments.
 
 AI/ML:
 
-  Deep Learning: Specializing in neural network architectures, model training, and hyperparameter tuning.
-  NLP (Natural Language Processing): Experience with text preprocessing, tokenization, and building models for language understanding.
-  Computer Vision: Working with image processing techniques, object detection, and facial recognition models.
+- Deep Learning: Specializing in neural network architectures, model training, and hyperparameter tuning.
+- NLP (Natural Language Processing): Experience with text preprocessing, tokenization, and building models for language understanding.
+- Computer Vision: Working with image processing techniques, object detection, and facial recognition models.
   
 🌱 Currently Learning:
 
-Advanced Deep Learning techniques
-Big Data tools and methodologies
-Contributing to open-source projects
+--> Advanced Deep Learning techniques
+--> Big Data tools and methodologies
+--> Contributing to open-source projects
 
 📫 How to reach me:
 
