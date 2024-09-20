@@ -6,7 +6,7 @@
 
 ## 💻 About Me
 
-I'm passionate about **Artificial Intelligence, Machine Learning, and Big Data**. I focus on solving complex problems with innovative AI solutions. My experience includes developing and maintaining AI and data-driven projects. Currently, I'm exploring new frontiers in AI and enhancing my programming skills.
+I'm passionate about **Artificial Intelligence, Machine Learning, and Deep Learning**. I focus on solving complex problems with innovative AI solutions. My experience includes developing and maintaining AI and data-driven projects. Currently, I'm exploring new frontiers in AI and enhancing my programming skills.
 
 ---
 
