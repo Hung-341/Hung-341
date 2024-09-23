@@ -34,6 +34,13 @@ I'm passionate about **Artificial Intelligence, Machine Learning, and Deep Learn
 - **NLP (Natural Language Processing):** Experience with text preprocessing, tokenization, and building models for language understanding.
 - **Computer Vision:** Working with image processing techniques, object detection, and facial recognition models.
 
+### **Data Engineering**
+
+- **Basic Data Pipelines:** Understanding how to set up simple data pipelines for ETL (Extract, Transform, Load) processes.
+- **Data Cleaning and Transformation:** Proficient in basic data preprocessing, cleaning, and transformation using Python libraries like Pandas.
+- **Database Management:** Experience with basic SQL for data querying and database operations.
+- **Data Visualization:** Familiar with creating basic data visualizations using tools like Matplotlib or Seaborn.
+
 ---
 
 ## 🌱 Currently Learning
