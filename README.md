@@ -1,12 +1,13 @@
-
 # 👋 Hi, I'm Hung  
-🎓 **AI Enthusiast | FPT University Graduate | Soon-to-be AI Engineer**
+🎓 **AI Engineer | FPT University Graduate | Deep Learning & NLP Specialist**
 
 ---
 
-## 💻 About Me
+## 💡 About Me
 
-I'm passionate about **Artificial Intelligence, Machine Learning, and Deep Learning**. I focus on solving complex problems with innovative AI solutions. My experience includes developing and maintaining AI and data-driven projects. Currently, I'm exploring new frontiers in AI and enhancing my programming skills.
+I’m a passionate AI Engineer with hands-on experience in building **real-world AI systems** across **Computer Vision** and **Natural Language Processing**. I’ve implemented state-of-the-art solutions such as deepfake detection using Vision Transformers, GAN-based image super-resolution, and intelligent chatbots using transformer models.
+
+Currently pursuing a **Master's in Software Engineering**, I aim to push the boundaries of AI by researching and building intelligent applications that make a positive impact.
 
 ---
 
@@ -14,46 +15,73 @@ I'm passionate about **Artificial Intelligence, Machine Learning, and Deep Learn
 
 ### **Languages & Frameworks**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-- **Python:** Proficient in writing scripts, automating tasks, and developing machine learning models.
-- **TensorFlow:** Expertise in developing and training deep learning models for various applications.
-- **PyTorch:** Skilled in building neural networks, conducting experiments, and model optimization.
-- **Flask:** Experience in deploying AI models as web services and APIs for production environments.
-
-### **Tools**
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-- **Git:** Version control for collaborative development, managing codebases, and tracking changes.
-- **Docker:** Containerization of AI models and applications to ensure consistent deployment across environments.
+- **Python:** Core language for AI development and scripting.
+- **TensorFlow & PyTorch:** Expert in deep learning frameworks, model design, training, and optimization.
+- **Flask:** Deployed AI models as REST APIs for production use.
+- **JAX & Flax:** Used in Transformer-based NLP chatbot projects.
 
 ### **AI/ML Expertise**
 
-- **Deep Learning:** Specializing in neural network architectures, model training, and hyperparameter tuning.
-- **NLP (Natural Language Processing):** Experience with text preprocessing, tokenization, and building models for language understanding.
-- **Computer Vision:** Working with image processing techniques, object detection, and facial recognition models.
+- **Computer Vision:** Face recognition, YOLO object detection, deepfake detection (ViT + CNN + RNN).
+- **NLP:** Intent classification, task-oriented chatbots, dialogue systems with BERT, GPT, Gemini API.
+- **Generative Models:** Image enhancement using GANs.
+- **AI Chatbots:** Building empathetic, goal-driven conversational agents with real-world integration.
 
-### **Data Engineering**
+### **Data Engineering & Deployment**
 
-- **Basic Data Pipelines:** Understanding how to set up simple data pipelines for ETL (Extract, Transform, Load) processes.
-- **Data Cleaning and Transformation:** Proficient in basic data preprocessing, cleaning, and transformation using Python libraries like Pandas.
-- **Database Management:** Experience with basic SQL for data querying and database operations.
-- **Data Visualization:** Familiar with creating basic data visualizations using tools like Matplotlib or Seaborn.
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Deep Learning techniques
-- Big Data tools and methodologies
-- Contributing to open-source projects
+- **Data Cleaning & Preprocessing:** Pandas, NumPy.
+- **SQL & PostgreSQL:** Used for chatbot recommendation systems.
+- **Docker:** Containerized AI applications for consistent deployment.
+- **Git & GitHub:** Collaborated in team-based development projects.
 
 ---
 
-## 📫 How to Reach Me
+## 🚀 Projects
 
-- **Email:** [Hunglg.341@gmail.com](mailto:Hunglg.341@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/h%C6%B0ng-l%C3%AA-gia-621015317/)
+### 🧠 **X-Model Transformers for Deepfake Detection**
+> A novel deepfake detection model combining Transformer, CNN, and RNN for both images and videos.  
+**Tech:** ViT, CNN, PyTorch
+
+### 🤖 **AURORA: AI Mental Health Chatbot**
+> Built with Gemini API to support human-like, empathetic dialogue for emotional well-being.  
+**Tech:** Gemini API, NLP, Flask
+
+### 📚 **Book Recommendation Chatbot**
+> Provides personalized book suggestions through natural conversation.  
+**Tech:** Gemini API, PostgreSQL
+
+### 👁️ **Face Recognition Attendance System**
+> Used YOLO for face detection and VGGFace for recognition.  
+**Tech:** YOLOv5, ResNet, OpenCV
+
+### 🔊 **Task-Oriented NLP Chatbot**
+> Handled intent recognition and task execution using JAX/Flax-based transformer models.  
+**Tech:** JAX, Flax, NLP
+
+### 🖼️ **Image Super-Resolution using GAN**
+> Enhanced image quality with a generator-discriminator GAN structure.  
+**Tech:** GAN, PyTorch
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced Transformer architectures  
+- Real-time deployment of AI models  
+- Open-source contributions in NLP/CV  
+- Cloud AI and MLOps integration
+
+---
+
+## 📫 Contact
+
+- 📧 Email: [Hunglg.341@gmail.com](mailto:Hunglg.341@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/le-hung-584602251](https://www.linkedin.com/in/le-hung-584602251/)  
+- 💻 GitHub: [github.com/Hung-341](https://github.com/Hung-341)
 
 ---
