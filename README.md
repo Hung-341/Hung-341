@@ -1,87 +1,100 @@
-# 👋 Hi, I'm Hung  
-🎓 **AI Engineer | FPT University Graduate | Deep Learning & NLP Specialist**
+# 👋 Hung Le
+**AI Engineer | Computer Vision & NLP Specialist **
 
 ---
 
-## 💡 About Me
+## 🚀 About Me
+I'm an AI Engineer specializing in **Computer Vision**, **Deep Learning**, and **Natural Language Processing**, with a passion for developing AI-powered solutions that make a real-world impact. Currently pursuing my Master's in Software Engineering while working on cutting-edge AI projects in healthcare and recommendation systems.
 
-I’m a passionate AI Engineer with hands-on experience in building **real-world AI systems** across **Computer Vision** and **Natural Language Processing**. I’ve implemented state-of-the-art solutions such as deepfake detection using Vision Transformers, GAN-based image super-resolution, and intelligent chatbots using transformer models.
+### 🎯 Current Focus
+- Building empathetic AI chatbots for mental health support
+- Developing transformer-based NLP models
+- Creating personalized recommendation systems
+- Implementing MLOps practices for production deployment
 
-Currently pursuing a **Master's in Software Engineering**, I aim to push the boundaries of AI by researching and building intelligent applications that make a positive impact.
+---
+
+## 💼 Professional Experience
+
+### 🏢 CÔNG TY TNHH HIỆP PHÚ | AI Engineer
+*Nov 2024 - Jun 2025 | Tây Ninh, Vietnam*
+- 🤖 Developing an AI-powered mental health chatbot with empathetic dialogue capabilities
+- 📚 Built a book recommendation chatbot using natural language interaction
+- 🔒 Implemented safety mechanisms and crisis intervention protocols
+- 🧠 Integrated Gemini API for advanced NLU and contextual response generation
+
+### 🏢 GRADIENTS TECHNOLOGIES JSC | AI Engineer Intern
+*Jan 2023 - Apr 2023 | Ho Chi Minh City, Vietnam*
+- 🎯 Contributed to task-oriented chatbot development using Transformer-based NLP models
+- ⚡ Gained expertise in JAX and Flax frameworks for efficient deep learning components
+- 🔧 Built scalable ML components for production environments
+
+---
+
+## 🎓 Education
+
+- 🎓 **Master of Software Engineering** | FPT School of Business and Technology  
+  *Sep 2024 - Apr 2026 (Expected)*
+
+- 🎓 **Bachelor of Information Technology** | FPT University  
+  *Sep 2019 - Apr 2024 | GPA: 7.17/10.00*
 
 ---
 
 ## 🛠️ Technical Skills
 
-### **Languages & Frameworks**
+### AI/ML Specializations
+- **Computer Vision**: CNNs, Vision Transformers, Image Processing
+- **Natural Language Processing**: Transformers, BERT, GPT, Text Analysis
+- **Deep Learning**: RNNs, GANs, Neural Architecture Design
+- **MLOps**: Model Deployment, Monitoring, CI/CD for ML
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-- **Python:** Core language for AI development and scripting.
-- **TensorFlow & PyTorch:** Expert in deep learning frameworks, model design, training, and optimization.
-- **Flask:** Deployed AI models as REST APIs for production use.
-- **JAX & Flax:** Used in Transformer-based NLP chatbot projects.
-
-### **AI/ML Expertise**
-
-- **Computer Vision:** Face recognition, YOLO object detection, deepfake detection (ViT + CNN + RNN).
-- **NLP:** Intent classification, task-oriented chatbots, dialogue systems with BERT, GPT, Gemini API.
-- **Generative Models:** Image enhancement using GANs.
-- **AI Chatbots:** Building empathetic, goal-driven conversational agents with real-world integration.
-
-### **Data Engineering & Deployment**
-
-- **Data Cleaning & Preprocessing:** Pandas, NumPy.
-- **SQL & PostgreSQL:** Used for chatbot recommendation systems.
-- **Docker:** Containerized AI applications for consistent deployment.
-- **Git & GitHub:** Collaborated in team-based development projects.
+### Data & Infrastructure
+- **Databases**: PostgreSQL, SQL, NoSQL
+- **Big Data**: Data Mining, Data Scraping, Analytics
+- **DevOps**: Docker, Cloud Deployment, REST APIs
+- **Prompt Engineering**: LLM Optimization, Conversation Design
 
 ---
 
-## 🚀 Projects
+## 🎯 Featured Projects
 
-### 🧠 **X-Model Transformers for Deepfake Detection**
-> A novel deepfake detection model combining Transformer, CNN, and RNN for both images and videos.  
-**Tech:** ViT, CNN, PyTorch
+### 🤖 AURORA - Healthcare Mental Health Chatbot
+*Mar 2025 - Jun 2025*
+- Advanced conversational flow architecture for sensitive topics
+- Crisis intervention protocols and safety mechanisms
+- Gemini API integration for contextual understanding
+- Professional boundary management in healthcare conversations
 
-### 🤖 **AURORA: AI Mental Health Chatbot**
-> Built with Gemini API to support human-like, empathetic dialogue for emotional well-being.  
-**Tech:** Gemini API, NLP, Flask
+### 📚 Book Recommendation Chatbot
+*Nov 2024 - Feb 2025*
+- Personalized book suggestions through NLP analysis
+- User preference pattern recognition
+- PostgreSQL integration for metadata management
+- Contextual accuracy in recommendations
 
-### 📚 **Book Recommendation Chatbot**
-> Provides personalized book suggestions through natural conversation.  
-**Tech:** Gemini API, PostgreSQL
-
-### 👁️ **Face Recognition Attendance System**
-> Used YOLO for face detection and VGGFace for recognition.  
-**Tech:** YOLOv5, ResNet, OpenCV
-
-### 🔊 **Task-Oriented NLP Chatbot**
-> Handled intent recognition and task execution using JAX/Flax-based transformer models.  
-**Tech:** JAX, Flax, NLP
-
-### 🖼️ **Image Super-Resolution using GAN**
-> Enhanced image quality with a generator-discriminator GAN structure.  
-**Tech:** GAN, PyTorch
+### 🎯 Task-Oriented Chatbot System
+*Jan 2023 - Apr 2024*
+- Modular chatbot architecture with intent recognition and slot filling modules
+- Transformer-based NLP with JAX/Flax frameworks
+- Entity extraction algorithms
+- High-performance neural network computation
 
 ---
 
-## 🌱 Currently Exploring
+## 🌟 What Sets Me Apart
 
-- Advanced Transformer architectures  
-- Real-time deployment of AI models  
-- Open-source contributions in NLP/CV  
-- Cloud AI and MLOps integration
-
----
-
-## 📫 Contact
-
-- 📧 Email: [Hunglg.341@gmail.com](mailto:Hunglg.341@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/le-hung-584602251](https://www.linkedin.com/in/le-hung-584602251/)  
-- 💻 GitHub: [github.com/Hung-341](https://github.com/Hung-341)
+- 🔬 **Research-to-Production**: Experience in taking AI models from research concepts to production deployment
+- 💡 **Healthcare AI**: Specialized in developing AI solutions for sensitive domains like mental health
+- 🏗️ **System Architecture**: Strong focus on building scalable, modular AI systems
+- 🤝 **Empathetic AI**: Expertise in creating AI that understands and responds to human emotions appropriately
 
 ---
+
+## 🤝 Let's Connect!
+
+📧 **Email**: hunglg.341@gmail.com  
+📱 **Phone**: +84 929 331 800  
+📍 **Location**: Ho Chi Minh City, Vietnam
+
+> "Building AI that understands and helps humanity, one model at a time."
