@@ -1,4 +1,4 @@
-# 👋 Hung Le
+# 👋 Le Hung
 **AI Engineer | Computer Vision & NLP Specialist **
 
 ---
