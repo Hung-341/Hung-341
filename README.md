@@ -21,7 +21,7 @@ I am an R&D-focused AI Engineer bridging the gap between **Computer Vision** and
 **Backend & DevOps:**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
@@ -30,6 +30,7 @@ I am an R&D-focused AI Engineer bridging the gap between **Computer Vision** and
 
 | Period | Role | Company | Key Tech |
 | :--- | :--- | :--- | :--- |
+| **Jul 2025 - Dec 2025** | **AI Engineer** | AICI Global | `Multi-Agent` `LangGraph` `FastAPI` `Supabase` |
 | **Nov 2024 - Jun 2025** | **AI Engineer** | Hiep Phu Law Firm | `RAG` `Gemini API` `Vector DB` `NLP` |
 | **Jan 2023 - Apr 2023** | **AI Engineer Intern** | Gradients Technologies | `JAX/Flax` `Transformers` `Chatbot` |
 
@@ -37,22 +38,22 @@ I am an R&D-focused AI Engineer bridging the gap between **Computer Vision** and
 
 ### 🎯 Featured Projects
 
-#### 🤖 **GovGuide Bot** (AI Public Service Assistant)
+#### ⚡ **Multi-Agent Backend System** (AICI Global)
+> *An autonomous agent orchestration system for complex transaction handling.*
+* **Architecture:** Multi-Agent system using LangGraph to orchestrate 4 autonomous agents.
+* **Tech:** FastAPI, Supabase, LangGraph.
+* **Impact:** Reduced reasoning latency from **>8s to <3s** via parallel execution & caching.
+
+#### 🤖 **GovGuide Bot** (Hiep Phu Law Firm)
 > *A RAG-based assistant providing accurate guidance on Vietnamese administrative procedures.*
-* **Architecture:** Retrieval-Augmented Generation (RAG) ensuring high factual accuracy grounded in legal docs.
+* **Architecture:** Retrieval-Augmented Generation (RAG) ensuring high factual accuracy.
 * **Tech:** Gemini API, Vector Database, Context-aware NLU.
-* **Impact:** Guided users through complex procedures with simple, step-by-step conversational flows.
+* **Impact:** Guided users through complex procedures with simple conversational flows.
 
 #### 📚 **AI Legal Assistant** (Document Intelligence)
 > *An intelligent platform for legal document analysis and retrieval.*
 * **Core:** High-fidelity OCR for scanned docs & Semantic Search engine.
-* **Tech:** PostgreSQL, Custom OCR Pipeline, Recommendation Engine.
-* **Feature:** Automates intent recognition to deliver personalized legal advice.
-
-#### ⚡ **Task-Oriented Chatbot**
-> *High-performance NLP system built with JAX.*
-* **Focus:** Intent recognition, Slot filling, and Entity extraction.
-* **Tech:** JAX/Flax, Transformers.
+* **Tech:** PostgreSQL, Custom OCR Pipeline.
 
 ---
 
