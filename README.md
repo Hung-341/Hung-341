@@ -1,7 +1,8 @@
 # Le Gia Hung
 
-AI Engineer focused on **LLM applications, Retrieval-Augmented Generation (RAG), and Multi-Agent AI systems**.  
-Experienced in building **AI-powered backend services and scalable pipelines** using Python, FastAPI, and modern AI frameworks.
+AI Engineer specializing in **LLM systems, Retrieval-Augmented Generation (RAG), and Multi-Agent AI architectures**.
+
+I focus on building **production-ready AI applications** that combine large language models with scalable backend systems and data pipelines.
 
 📍 Ho Chi Minh City, Vietnam  
 📧 hunglg.341@gmail.com  
@@ -10,109 +11,88 @@ Experienced in building **AI-powered backend services and scalable pipelines** u
 
 ---
 
-## About Me
+# AI Engineering Focus
 
-I am an AI Engineer with hands-on experience developing:
+My work centers on designing and building **AI systems that work in real products**, including:
 
-- LLM-powered applications
-- Retrieval-Augmented Generation (RAG) systems
+- LLM-based applications
+- Retrieval-Augmented Generation (RAG)
 - Multi-agent AI workflows
-- Backend services for AI products
+- AI backend services
+- Vector search systems
+- Document processing pipelines
 
-My work focuses on building **practical AI systems that integrate LLMs with real-world data pipelines and scalable backend infrastructure**.
-
-Currently pursuing a **Master’s degree in Software Engineering** with research interests in **AI systems and real-time anomaly detection**. :contentReference[oaicite:0]{index=0}
+I am particularly interested in **LLM system architecture and scalable AI infrastructure**. :contentReference[oaicite:0]{index=0}
 
 ---
 
-# Tech Stack
+# Technical Stack
 
 ### Programming
 - Python
 - AsyncIO
-- REST API Development
+- REST API development
 
-### AI / Machine Learning
-- PyTorch
-- Transformer Models
-- Vision Transformer (ViT)
-- Model Fine-tuning
-
-### LLM & Retrieval
+### LLM & AI Systems
 - LangChain
 - LangGraph
-- Retrieval-Augmented Generation (RAG)
+- RAG architectures
+- Multi-Agent Systems
+- OpenAI API
+
+### Machine Learning
+- PyTorch
+- Transformer models
+- Vision Transformer (ViT)
+- Model fine-tuning
+
+### Retrieval & Embeddings
 - FAISS
 - Sentence Transformers
-- Multi-Agent Systems
+- Vector search systems
 
 ### Backend & Infrastructure
 - FastAPI
-- Streamlit
 - Docker
 - Gunicorn
+- Streamlit
 - Git
-- OpenAI API
 
 ---
 
-# Work Experience
-
-## AI Engineer — AICI Global
-📅 Jul 2025 – Dec 2025  
-📍 Ho Chi Minh City, Vietnam
-
-Key contributions:
-
-- Developed a **multi-agent AI chatbot for e-commerce support**
-- Designed **routing logic for task-specific agents**
-- Built backend services using **FastAPI, Python, AsyncIO**
-- Improved concurrency with **Gunicorn and asynchronous processing**
-- Implemented **embedding pipelines for RAG-based retrieval systems**
-
----
-
-## AI Engineer — Hiep Phu Law Firm
-📅 Dec 2024 – Jun 2025  
-📍 Ho Chi Minh City, Vietnam
-
-Key contributions:
-
-- Built a **legal question-answering assistant**
-- Implemented **hybrid retrieval using FAISS + Sentence Transformers**
-- Created **document ingestion pipelines** using:
-  - PyPDF
-  - BeautifulSoup
-- Deployed demo application with **FastAPI + Streamlit + Docker**
-
----
-
-# Projects
+# Selected AI Projects
 
 ## Legal Document Retrieval System (RAG)
 
-A retrieval-augmented QA system designed for legal documents.
+A retrieval-augmented question answering system for legal documents.
 
-Features:
+Core components:
 
+- Document ingestion pipeline
+- Embedding generation using Sentence Transformers
+- FAISS vector index for semantic retrieval
 - LangChain-based RAG pipeline
-- FAISS vector search
-- Sentence Transformer embeddings
-- LLM response grounded in retrieved legal passages
-- Demo deployed with FastAPI and Streamlit
+- FastAPI backend
+- Streamlit demo interface
+
+Key idea:
+Combine **LLM reasoning with retrieved legal passages** to produce grounded answers.
 
 ---
 
 ## Multi-Agent AI Chatbot
 
-A chatbot architecture built using **agent orchestration workflows**.
+A chatbot system designed using **agent orchestration architecture**.
 
-Key features:
+Features:
 
-- Multi-agent coordination via routing logic
-- Task-specific agents
-- Backend APIs for real-time conversation
-- Scalable AI service architecture
+- Multiple task-specific agents
+- Routing workflow to coordinate agents
+- Backend APIs for real-time interaction
+- Conversation handling pipeline
+
+Goal:
+Demonstrate how **agent-based systems improve complex LLM workflows**.
 
 ---
 
@@ -122,48 +102,79 @@ Capstone project focused on detecting manipulated images.
 
 Technical highlights:
 
-- Vision Transformer (ViT) architecture
+- Vision Transformer (ViT) model architecture
 - Fine-tuning pretrained models
-- Evaluation on complex deepfake datasets
-- Detection of visual artifacts in manipulated images
+- Training on deepfake datasets
+- Detection of subtle visual artifacts
+
+Focus:
+Applying **transformer-based vision models to real-world security problems**.
 
 ---
 
-# Education
+# Professional Experience
 
-## Master of Software Engineering  
-FPT School of Business and Technology  
-2024 – Present  
-GPA: **8.57**
+## AI Engineer — AICI Global
 
-Research topic:
-- Real-time audio anomaly detection pipeline
+Worked on building **multi-agent AI systems for e-commerce support**.
 
----
+Key contributions:
 
-## Bachelor of Information Technology  
-FPT University  
-2019 – 2024
-
-Capstone project:
-- Deepfake Image Detection using Vision Transformers
+- Developed agent orchestration using LangGraph
+- Implemented routing logic for specialized agents
+- Built backend services using FastAPI and AsyncIO
+- Improved concurrency with asynchronous processing
+- Implemented embedding pipelines for RAG systems
 
 ---
 
-# Current Interests
+## AI Engineer — Hiep Phu Law Firm
 
-- LLM systems architecture
-- Multi-agent AI workflows
-- Retrieval-Augmented Generation
-- AI infrastructure & scalable backend systems
-- Real-time AI pipelines
+Developed an **AI legal assistant** capable of answering legal questions.
+
+Key contributions:
+
+- Built legal QA system using LangChain and OpenAI API
+- Implemented hybrid retrieval with FAISS + Sentence Transformers
+- Created document ingestion pipelines for legal texts
+- Deployed application using FastAPI, Streamlit, and Docker
+
+---
+
+# Research
+
+Currently pursuing a **Master of Software Engineering**.
+
+Research focus:
+
+Real-time **audio anomaly detection pipelines** for intelligent monitoring systems.
+
+---
+
+# What I'm Currently Learning
+
+- Advanced RAG architectures
+- AI agent orchestration
+- LLM system evaluation
+- Scalable AI infrastructure
+- Production AI pipelines
+
+---
+
+# Collaboration
+
+Interested in collaborating on:
+
+- LLM systems
+- AI developer tools
+- Multi-agent systems
+- AI infrastructure projects
+- Applied AI products
 
 ---
 
 # Contact
 
-If you're working on **AI systems, LLM products, or intelligent automation platforms**, feel free to connect.
-
-- Email: hunglg.341@gmail.com
-- LinkedIn: https://linkedin.com/in/hunglg-341rev
-- GitHub: https://github.com/Hung-341
+📧 Email: hunglg.341@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/hunglg-341rev  
+💻 GitHub: https://github.com/Hung-341
