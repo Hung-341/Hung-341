@@ -1,85 +1,169 @@
-# Hi there, I'm Henryson Le! 👋
-### 🚀 AI Engineer | Computer Vision & NLP Specialist
+# Le Gia Hung
 
-I am an R&D-focused AI Engineer bridging the gap between **Computer Vision** and **Natural Language Processing**. Passionate about building scalable AI systems that solve real-world problems. Currently pursuing a **Master's in Software Engineering** while developing cutting-edge solutions in LegalTech and Automation.
+AI Engineer focused on **LLM applications, Retrieval-Augmented Generation (RAG), and Multi-Agent AI systems**.  
+Experienced in building **AI-powered backend services and scalable pipelines** using Python, FastAPI, and modern AI frameworks.
 
----
-
-### 🛠️ Tech Stack
-
-**Languages & Core:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-**AI & Machine Learning:**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-000000?style=for-the-badge&logo=google&logoColor=white)
-
-**Backend & DevOps:**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+📍 Ho Chi Minh City, Vietnam  
+📧 hunglg.341@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/hunglg-341rev  
+💻 GitHub: https://github.com/Hung-341  
 
 ---
 
-### 💼 Professional Experience
+## About Me
 
-| Period | Role | Company | Key Tech |
-| :--- | :--- | :--- | :--- |
-| **Jul 2025 - Dec 2025** | **AI Engineer** | AICI Global | `Multi-Agent` `LangGraph` `FastAPI` `Supabase` |
-| **Nov 2024 - Jun 2025** | **AI Engineer** | Hiep Phu Law Firm | `RAG` `Gemini API` `Vector DB` `NLP` |
-| **Jan 2023 - Apr 2023** | **AI Engineer Intern** | Gradients Technologies | `JAX/Flax` `Transformers` `Chatbot` |
+I am an AI Engineer with hands-on experience developing:
 
----
+- LLM-powered applications
+- Retrieval-Augmented Generation (RAG) systems
+- Multi-agent AI workflows
+- Backend services for AI products
 
-### 🎯 Featured Projects
+My work focuses on building **practical AI systems that integrate LLMs with real-world data pipelines and scalable backend infrastructure**.
 
-#### ⚡ **Multi-Agent Backend System** (AICI Global)
-> *An autonomous agent orchestration system for complex transaction handling.*
-* **Architecture:** Multi-Agent system using LangGraph to orchestrate 4 autonomous agents.
-* **Tech:** FastAPI, Supabase, LangGraph.
-* **Impact:** Reduced reasoning latency from **>8s to <3s** via parallel execution & caching.
-
-#### 🤖 **GovGuide Bot** (Hiep Phu Law Firm)
-> *A RAG-based assistant providing accurate guidance on Vietnamese administrative procedures.*
-* **Architecture:** Retrieval-Augmented Generation (RAG) ensuring high factual accuracy.
-* **Tech:** Gemini API, Vector Database, Context-aware NLU.
-* **Impact:** Guided users through complex procedures with simple conversational flows.
-
-#### 📚 **AI Legal Assistant** (Document Intelligence)
-> *An intelligent platform for legal document analysis and retrieval.*
-* **Core:** High-fidelity OCR for scanned docs & Semantic Search engine.
-* **Tech:** PostgreSQL, Custom OCR Pipeline.
+Currently pursuing a **Master’s degree in Software Engineering** with research interests in **AI systems and real-time anomaly detection**. :contentReference[oaicite:0]{index=0}
 
 ---
 
-### 🎓 Education
+# Tech Stack
 
-* 🎓 **Master of Software Engineering** | FPT School of Business and Technology (Sep 2024 - Apr 2026)
-* 🎓 **Bachelor of Information Technology** | FPT University (Sep 2019 - Apr 2024)
+### Programming
+- Python
+- AsyncIO
+- REST API Development
+
+### AI / Machine Learning
+- PyTorch
+- Transformer Models
+- Vision Transformer (ViT)
+- Model Fine-tuning
+
+### LLM & Retrieval
+- LangChain
+- LangGraph
+- Retrieval-Augmented Generation (RAG)
+- FAISS
+- Sentence Transformers
+- Multi-Agent Systems
+
+### Backend & Infrastructure
+- FastAPI
+- Streamlit
+- Docker
+- Gunicorn
+- Git
+- OpenAI API
 
 ---
 
-### 📊 GitHub Stats
+# Work Experience
 
-![Henryson Le's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hunglg-1430&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hunglg-1430&layout=compact&theme=radical)
+## AI Engineer — AICI Global
+📅 Jul 2025 – Dec 2025  
+📍 Ho Chi Minh City, Vietnam
+
+Key contributions:
+
+- Developed a **multi-agent AI chatbot for e-commerce support**
+- Designed **routing logic for task-specific agents**
+- Built backend services using **FastAPI, Python, AsyncIO**
+- Improved concurrency with **Gunicorn and asynchronous processing**
+- Implemented **embedding pipelines for RAG-based retrieval systems**
 
 ---
 
-### 🤝 Let's Connect
+## AI Engineer — Hiep Phu Law Firm
+📅 Dec 2024 – Jun 2025  
+📍 Ho Chi Minh City, Vietnam
 
-<p align="left">
-<a href="mailto:hunglg.341@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/hunglg-341/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-</p>
+Key contributions:
 
-> *"Building AI that understands and helps humanity, one model at a time."*
+- Built a **legal question-answering assistant**
+- Implemented **hybrid retrieval using FAISS + Sentence Transformers**
+- Created **document ingestion pipelines** using:
+  - PyPDF
+  - BeautifulSoup
+- Deployed demo application with **FastAPI + Streamlit + Docker**
+
+---
+
+# Projects
+
+## Legal Document Retrieval System (RAG)
+
+A retrieval-augmented QA system designed for legal documents.
+
+Features:
+
+- LangChain-based RAG pipeline
+- FAISS vector search
+- Sentence Transformer embeddings
+- LLM response grounded in retrieved legal passages
+- Demo deployed with FastAPI and Streamlit
+
+---
+
+## Multi-Agent AI Chatbot
+
+A chatbot architecture built using **agent orchestration workflows**.
+
+Key features:
+
+- Multi-agent coordination via routing logic
+- Task-specific agents
+- Backend APIs for real-time conversation
+- Scalable AI service architecture
+
+---
+
+## Deepfake Image Detection
+
+Capstone project focused on detecting manipulated images.
+
+Technical highlights:
+
+- Vision Transformer (ViT) architecture
+- Fine-tuning pretrained models
+- Evaluation on complex deepfake datasets
+- Detection of visual artifacts in manipulated images
+
+---
+
+# Education
+
+## Master of Software Engineering  
+FPT School of Business and Technology  
+2024 – Present  
+GPA: **8.57**
+
+Research topic:
+- Real-time audio anomaly detection pipeline
+
+---
+
+## Bachelor of Information Technology  
+FPT University  
+2019 – 2024
+
+Capstone project:
+- Deepfake Image Detection using Vision Transformers
+
+---
+
+# Current Interests
+
+- LLM systems architecture
+- Multi-agent AI workflows
+- Retrieval-Augmented Generation
+- AI infrastructure & scalable backend systems
+- Real-time AI pipelines
+
+---
+
+# Contact
+
+If you're working on **AI systems, LLM products, or intelligent automation platforms**, feel free to connect.
+
+- Email: hunglg.341@gmail.com
+- LinkedIn: https://linkedin.com/in/hunglg-341rev
+- GitHub: https://github.com/Hung-341
