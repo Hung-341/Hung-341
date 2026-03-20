@@ -7,8 +7,6 @@ I focus on building **production-ready AI applications** that combine large lang
 📍 Ho Chi Minh City, Vietnam  
 📧 hunglg.341@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/hunglg-341rev  
-💻 GitHub: https://github.com/Hung-341  
-
 ---
 
 # AI Engineering Focus
